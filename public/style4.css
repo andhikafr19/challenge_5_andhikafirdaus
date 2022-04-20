@@ -1,0 +1,35 @@
+:root {
+    box-sizing: border-box;
+}
+
+html, body, * {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #9C835F;
+}
+
+.text-title {
+    color: #F9B23D;
+    font-weight: 600;
+}
+
+.title-result {
+    margin-top: 200px;
+}
+
+#result {
+    font-size: 40px;
+}
+
+.btn-result {
+    transform: rotate(-25deg);
+}
+
+.rock:hover, .paper:hover, .scissor:hover {
+    cursor: pointer;
+    background-color: #C4C4C4;
+}
+

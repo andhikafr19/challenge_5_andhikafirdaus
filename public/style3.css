@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans&display=swap');
+
+html, body {
+    overflow-x: hidden;
+    font-family: Arial, sans-serif;
+}
+.bg-main {
+    background: url(../assets/image3/main-bg.jpg);
+    background-size: cover;
+    height: 960px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.navbar {
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.text-main {
+    margin-top: 223px;
+}
+
+.btn-play {
+    width: 260px;
+    height: 60px;
+    background-color: #FFB548;
+}
+
+
+.bg-about {
+    background: url(../assets/image3/the-games-bg.jpg);
+    background-size: cover;
+    height: 1050px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bg-feature {
+    background: url(../assets/image3/features.jpg);
+    background-size: cover;
+    height: 870px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bg-req {
+    background: url(../assets/image3/bg-image-4.jpg);
+    background-size: cover;
+    height: 960px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bg-quotes {
+    background: url(../assets/image3/bg-image-3.jpg);
+    background-size: cover;
+    height: 960px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.card-quotes {
+    background: rgba(255, 255, 255, 0.08);
+}
+
+.bg-news {
+    background: url(../assets/image3/black-bg.png);
+    background-size: cover;
+    height: 960px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
